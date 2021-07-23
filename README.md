@@ -4,3 +4,4 @@ This folder contains all program files which are used for the practical session 
 - Lab exercise 1 : LED blinking (Assembly langugage - Embedded C language)
 - Lab exercise 2 : 7-segment LED display (with or without IC7447)
 - Lab exercise 3 : Switch-controlled 7-segment LED counter
+- Lab exercise 4 : LCD 16x2 interface
